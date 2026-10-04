@@ -1,4 +1,4 @@
-# GitLab Security
+# GitLab Security Automation
 
 Automated detection/response for SCM policy violations across GitLab projects, grouped here as one repo — each subfolder is an independently deployable project with its own trigger and its own permissions footprint.
 
